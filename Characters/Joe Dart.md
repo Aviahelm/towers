@@ -44,7 +44,7 @@
 ## Connections
 
 - **Yuntao** — [one-sided / uneasy] Joe *feels* Yuntao wronged him, but holds no proof — and Yuntao keeps no such grudge. (See [Yuntao](Yuntao.md).)
-- **Mallory** — [trusted] She trusts him, and that alone stops him: he won't kill someone she likes. (See [Mallory](Mallory.md).)
+- **Mallory** — [trusted] She trusts him, and that alone stops him: he won't kill someone she likes. (See [Mallory](Mallory.md).) Note: Mallory is the **vessel / soul-farmhand for [Oritel](../NPCs/Oritel.md), who is Tower 2** — so the "Patron" behind the party's moral compass is a want-to-be-god ascending on the souls she gathers.
 
 ## Session Status (current state)
 

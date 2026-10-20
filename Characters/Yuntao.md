@@ -37,15 +37,18 @@
 - Yuntao built a reputation as powerful but a "loose cannon"; Yunna was the more diplomatic, popular choice and was rumoured to hold the upper hand in training.
 - **A week before the duel, Yunna vanished**, last seen entering **Duke Evercrest's** manor. Yuntao stormed the manor to investigate (not wanting the duel forfeited by absence) and was found with the **bodies of Duke Evercrest and Yunna**, covered in blood, having **killed a guard** who tried to detain him.
 - **Charged** with the double homicide. The family — who could have cleared a simple murder — was **forced to give Yuntao over** for diplomacy and to preserve the Order.
+- **Confirmed: Han Yunna is dead** — she was killed by **Duke Evercrest**, the **merchant** Yuntao killed. The manor night was Yuntao's **revenge**: he killed Evercrest, so the double-homicide charge was one murder committed and one found. What the Han family and the Cobalt Order knew of this is not yet recorded.
 
 ## Connections
 
 - **The Han Family** — [neutral] Well-connected; gave him up to save the Order.
-- **Evercrest Household** — [hostile] Yunna had courted the Duke; Yuntao never met him except that one night.
-- **The Cobalt Order** — [neutral] He wants to reclaim leadership; might makes right.
+- **Duke Evercrest** — [dead] a **merchant** who killed Yunna; Yuntao killed him in revenge (the manor night). Yunna had courted the Duke; Yuntao met him only that one night.
+- **The Cobalt Order** — [neutral] He wants to reclaim leadership; might makes right. **⚠ Tower 7 likely holds people the Cobalt Order wronged (and Han Yunna's / the Han parents' enemies) — expect generational hostility toward him and the Order's T7 members** (see [Tower 7](../Towers/Tower_7.md)).
 
 ## Session Status (current state)
 
+- **Session 3 (base):** [Jordan](../NPCs/Jordan.md) woke with a headache ("like he's been punched" — his S2 knockout by Yuntao) and was **smiling about it**; [Mallory](Mallory.md) **elbowed him**, and he let out a **faint dragon growl** — but **did nothing** and held his temper.
+- **Session 2 (Marketplace):** [Mellathor](Mellathor.md) took one of his rations; Yuntao instigated a fight (explosion in Mellathor's face) and — refusing to apologise — was **choked out with the wire rope** by Mellathor and **dragged by the tail**. After waking, he **entered [Plato](../NPCs/Plato.md)'s shop still aggressive**; **Plato spiked him** (first visit); on the **second visit** he **stole the C5 Force research notes** (then contacted [Kenji](../NPCs/Kenji.md)).
 - **Prison #7140.**
 - **Left eye gone** (the Judge's punishment; replacement tech is back at his Tower).
 - **Left arm cut off, grafted back on** — still not at full mobility. (Feud: see [Mellathor](Mellathor.md).)
@@ -53,5 +56,6 @@
 
 ## Open Threads / Ideation
 
-- **What took Han Yunna?** (open mystery)
+- **The truth of Yunna's death** — Duke Evercrest killed her; Yuntao killed Evercrest. Could it exonerate Yuntao, and did the Han family / Cobalt Order know? (ideation — not yet canon)
+- **Cobalt Order / Han family ↔ Tower 7:** high likelihood of **generational beef** — people in T7 were **fucked over by the Cobalt Order**; overlaps with **Yunna's enemies** and possibly the **Han parents' enemies** (see [Tower 7](../Towers/Tower_7.md)).
 - **Mellathor ↔ Yuntao beef** over the grafted arm.

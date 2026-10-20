@@ -10,6 +10,8 @@
 - **Gave the party their Sector 1 intelligence:** [Thraxus](Thraxus.md) leads S1, and where a usable base could be found.
 - **Gave the party their base of operations** — his old 4-storey shoddy apartment on the outskirts of S1 near a cliff (front door trapped with shotgun + molotov, disarmed by Mallory; the side metal-sheet door is the real entrance). See [Tower 7](../Towers/Tower_7.md).
 - **Warned the party about Silent Time** (the nightly scanning drone).
+- **Session 2 ("Ground Bee-f"):** forced by [Mellathor](../Characters/Mellathor.md) to admit his crime was thievery, then **knocked out by [Yuntao](../Characters/Yuntao.md)**.
+- **Session 3:** woke with his head hurting ("like he's been punched") — the S2 knockout by [Yuntao](../Characters/Yuntao.md) — while **cleaning up the base**. [Yuntao](../Characters/Yuntao.md) was **smiling about it**; [Mallory](../Characters/Mallory.md) elbowed Yuntao, and he let out a **faint dragon growl** before holding his temper (see [Yuntao](../Characters/Yuntao.md)).
 - Mallory treats him cordially (asked his name, left him rations); Dart keeps him as a "guide/pet." His **burnt friend [Zim](Zim.md)** (the prisoner Yuntao had maimed) was not killed — given rations + a molotov and left to survive elsewhere.
 
 ## Role

@@ -49,14 +49,16 @@
 
 - **Jeffrey / "the Jeffreys"** — **tower automata, not people**: **6 total, one per tower (Towers 2–7; Tower 1 has none)**, all identical in build but distinct in personality, built in **Tower 2**. They operate in the **circle spire** (runs the elevator between Towers 2–7) and guard the elevators up. The **Tower 7 Jeffrey** is detached and **doesn't care much about people** — it defeated S2's previous chief when he tried to fight it.
 - **The Judge (Tower 6)** — the prison judge; extremely fat; called Yuntao "pretty boy"; paired with a local **Jeffrey** (a Tower 2 automaton, the "very thin man" in the cell). Sentenced the party to Tower 7 (Gee the chef was maimed and sent back to Tower 5).
-- **Cobalt Order members in T7:** Junia/Junya, Kenji, **Parkin (red light district)**.
+- **Cobalt Order members in T7:** [Junya](../NPCs/Junya.md) · [Kenji](../NPCs/Kenji.md) · [Parkin](../NPCs/Parkin.md) (red light district) — see the NPC files for details.
+- **Marketplace Owner** — the robot who controls the Marketplace; impatient and strong, and shoppers defended him when he was attacked. **An instance (body) of [Thraxus](../NPCs/Thraxus.md)** — see [Marketplace Owner](../NPCs/Marketplace%20Owner.md).
+- **Cobalt Order resentment (ideation — DM lens, not yet canon):** **high likelihood** that Tower 7 holds people who were **fucked over by the Cobalt Order** — a bedrock hostility toward any Cobalt Order presence (Yuntao, Kenji, Junya, Parkin). This pool overlaps with **Han Yunna's enemies**, and may reach the **Han parents' generation** → **generational beef** between Tower 7 and the Cobalt Order / Han family.
 - **Mellathor's family:** Minotaurs last seen in **Sector 2**; supposedly moved elsewhere (per the judge's information).
 - **Jordan** — tiefling, former prisoner; now the party's guide/servant; gave them their base.
 
 ## Base of Operations (S1 outskirts, near a cliff)
 
 - Jordan's 4-storey shoddy apartment on the outskirts of Sector 1.
-- **Front door is trapped** (shotgun + molotov; disarmed by Mallory); side metal-sheet door is the real entrance.
+- **Front door:** Mallory disarmed the original shotgun + molotov trap in Session 1; Dart replaced it with an alarm trap in Session 2. The side metal-sheet door is the real entrance.
 - **F1:** kitchen, bathroom, sleep room, common area (Dart).
 - **F2:** 2 bedrooms, terrace open to the elements (Mallory).
 - **F3:** bedroom, storage room — crates, wires, ropes, metal pieces (Yuntao).
@@ -70,7 +72,7 @@
 
 - Identities of the 4 current chiefs (S2, S3, S4).
 - What is Sector 3?
-- What took Han Yunna? Why did Oritel go silent?
+- Why did Oritel go silent? (What took Han Yunna is resolved — she was killed by Duke Evercrest; see [Yuntao](../Characters/Yuntao.md).)
 - Where are Mellathor's family (Brutus, Goliath) now?
 - What do the room-sized drones do at night besides Silent Time?
 - Jeffreys — personalities/behavior of the **Tower 2–5 Jeffreys** (only T6 & T7 known) · what the **circle spire** actually is (one shared shaft vs. one per tower; what "circle" means) · who builds the Jeffreys.

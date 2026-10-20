@@ -1,6 +1,6 @@
 # Evaline — Supplier & Deal-Broker (Tower 7, Marketplace)
 
-> Introduced in [Session 2 of "Ground Bee-f"](../sessions/ground_bee-f_2/Jade.md); also in [Lee.md](../sessions/ground_bee-f_2/Lee.md). **Canonical name: Evaline** (written "Evalin" in some Session 2 records — a spelling variant, now resolved). The party's supplier and the source of their **bracelet tech**.
+> Introduced in [Session 2 of "Ground Bee-f"](../sessions/041026_ground_bee-f_2/Jade.md); also in [Lee.md](../sessions/041026_ground_bee-f_2/Lee.md). **Canonical name: Evaline** (written "Evalin" in some Session 2 records — a spelling variant, now resolved). The party's supplier and the source of their **bracelet tech**.
 
 ## Canon (established)
 
@@ -22,4 +22,4 @@
 - [Mallory](../Characters/Mallory.md) — memory removed; holds her "flower-blooming mechanic"
 - [Joe Dart](../Characters/Joe Dart.md) — made the "Finch" deal
 - [The Gardener](Gardener.md) — the flower-blooming NPC (possibly linked)
-- Location / context: [Tower 7](../Towers/Tower_7.md) (Marketplace) · [Session 2 — Jade](../sessions/ground_bee-f_2/Jade.md) · [Lee.md](../sessions/ground_bee-f_2/Lee.md) · [MEMORY.md](../MEMORY.md)
+- Location / context: [Tower 7](../Towers/Tower_7.md) (Marketplace) · [Session 2 — Jade](../sessions/041026_ground_bee-f_2/Jade.md) · [Lee.md](../sessions/041026_ground_bee-f_2/Lee.md) · [MEMORY.md](../MEMORY.md)

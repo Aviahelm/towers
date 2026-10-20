@@ -1,6 +1,6 @@
 # The Gardener — Flower-Blooming NPC (Tower 6)
 
-> **Working title — a thin placeholder.** A "flower-blooming NPC" (a gardener) encountered in [Session 2 of "Ground Bee-f"](../sessions/ground_bee-f_2/Jade.md), connected to [Mallory](../Characters/Mallory.md). **No proper name established yet — rename this file** once the table does.
+> **Working title — a thin placeholder.** A "flower-blooming NPC" (a gardener) encountered in [Session 2 of "Ground Bee-f"](../sessions/041026_ground_bee-f_2/Jade.md), connected to [Mallory](../Characters/Mallory.md). **No proper name established yet — rename this file** once the table does.
 
 ## Canon (established so far)
 
@@ -21,4 +21,4 @@
 - [Mallory](../Characters/Mallory.md) — the object of her wanting
 - [Oritel](Oritel.md) — Mallory's Patron (possible "flames" link — ideation)
 - Location: [Tower 6](../Towers/Tower_6.md)
-- [Session 2 — Jade](../sessions/ground_bee-f_2/Jade.md) · [MEMORY.md](../MEMORY.md)
+- [Session 2 — Jade](../sessions/041026_ground_bee-f_2/Jade.md) · [MEMORY.md](../MEMORY.md)
